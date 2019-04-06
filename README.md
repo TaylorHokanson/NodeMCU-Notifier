@@ -1,2 +1,2 @@
 # NodeMCU-Notifier
-## Teaching NodeMCU to email a phone when it detects water
+Teaching NodeMCU to send an email when it detects water
